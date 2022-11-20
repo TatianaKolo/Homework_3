@@ -46,4 +46,15 @@ Everything is easy with links
 >>>>>>> student_4
 
 [def]: D:\УВР\курсы\22-23\брейн\семинары\Test.md
+
+## GitHub (ГитХаб)
+
+
+
+
+
+
+
+
+
 ## **The End!**
